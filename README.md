@@ -1,4 +1,7 @@
-- 🔭 I’m currently working on ...islamic techer
+-### hi i am salahudheen 
+- 
+-  
+-    🔭 I’m currently working on ...islamic techer
 - 🌱 I’m currently learning ...youtube
 - 👯 I’m looking to collaborate on ...webdevelepping
 - 🤔 I’m looking for help with ...websaite making
